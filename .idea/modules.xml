@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/qaHT.iml" filepath="$PROJECT_DIR$/qaHT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comautomationaccount.iml" filepath="$PROJECT_DIR$/comautomationaccount.iml" />
     </modules>
   </component>
 </project>
